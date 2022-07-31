@@ -13,4 +13,6 @@ Sentiment analysis is the process of identifying feelings and emotions expressed
 - textblob
 - wordcloud
 
+# ML models used
+- support vector machine
 
